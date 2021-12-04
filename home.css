@@ -1,3 +1,6 @@
+html {
+  margin: 0px;
+}
 .navbar {
   display: flex;
   justify-content: space-evenly;
@@ -9,3 +12,41 @@
 a:hover {
   color: rgb(255, 169, 8);
 }
+.info1 {
+  text-align: center;
+  font-size: xx-large;
+  background-image: url("images/IMG_20211205_013428.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center 500px;
+  bottom: 50%;
+  position: relative;
+  height: 500px;
+  padding-top: 170px;
+  }
+  #b1 {
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #b1:hover {
+    background-color: rgb(255, 169, 8);
+    color: white;
+  }
+  #b2 {
+    border: 1px solid white;
+    background-color: rgb(255, 169, 8);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #b2:hover{
+    background-color: white;
+    color: black;
+  }
+  
+  
