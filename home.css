@@ -9,6 +9,7 @@
 .navbar a {
   text-decoration: none;
   color: rgb(20, 19, 19);
+  padding-top: 20px;
 }
 a:hover {
   color: rgb(255, 169, 8);
@@ -47,7 +48,30 @@ a:hover {
   }
   img {
     border-radius: 50%;
+    float: left;
+    clear: both;
   }
+.about-me {
+  padding-top: 90px;
+}
 
-  
-  
+.background {
+  float: right;
+  justify-content: space-evenly;
+  font-weight: bolder;
+  font-style: oblique;
+  padding-top: 100px;
+  padding-left: 170px;
+  font-size: large;
+}
+.education{
+  color: rgb(255, 169, 8);
+}
+.hobbies p{
+  color: rgb(255, 169, 8);
+}
+/*.my_work{
+  text-align: center;
+  color: white;
+  background-color: #0c3042;
+}
