@@ -1,5 +1,6 @@
-html {
+*{
   margin: 0px;
+  padding: 0px;
 }
 .navbar {
   display: flex;
@@ -15,14 +16,10 @@ a:hover {
 .info1 {
   text-align: center;
   font-size: xx-large;
-  background-image: url("images/IMG_20211205_013428.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top center 500px;
-  bottom: 50%;
-  position: relative;
-  height: 500px;
+  background-color: #0c3042;
   padding-top: 170px;
+  height: 350px;
+  color: white;
   }
   #b1 {
     border: 1px solid black;
@@ -48,5 +45,9 @@ a:hover {
     background-color: white;
     color: black;
   }
+  img {
+    border-radius: 50%;
+  }
+
   
   
