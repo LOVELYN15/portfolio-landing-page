@@ -50,7 +50,8 @@ a:hover {
     display: flex;
     justify-content: space-evenly;
     padding-top: 90px;
-  }
+ }
+ 
   .about_me img {
     border-radius: 50%;
     float: left;
