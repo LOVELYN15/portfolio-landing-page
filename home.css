@@ -50,8 +50,13 @@ a:hover {
     display: flex;
     justify-content: space-evenly;
     padding-top: 90px;
+    padding-bottom: 50px;
+    background-color: #0c3042;
  }
- 
+ .box1:hover {
+   background-color: rgb(236, 188, 98);
+ }
+
   .about_me img {
     border-radius: 50%;
     float: left;
