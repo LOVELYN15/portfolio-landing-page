@@ -46,7 +46,9 @@ a:hover {
     background-color: white;
     color: black;
   }
-  
+  .items {
+    display: flex;
+  }
   .about_me img {
     border-radius: 50%;
     float: left;
