@@ -61,12 +61,18 @@ a:hover {
   color: white;
   text-decoration: none;git
 }
- .about_me img {
+.box1 h4{
+  color: rgb(255, 169, 8);
+}
+.box2 h4{
+  color: rgb(255, 169, 8);
+}
+.about_me img {
     border-radius: 50%;
     float: left;
     clear: both;
-  }
-  .intro{
+}
+.intro{
   text-align: center;
   color: white;
   background-color: rgb(255, 169, 8);
