@@ -53,9 +53,19 @@ a:hover {
     padding-bottom: 50px;
     background-color: #0c3042;
  }
+ .box1 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 10px #888888;
+ }
  .box1 p{
    color: white;
    text-decoration: none;
+ }
+ .box2 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 10px #888888;
  }
  .box2 p{
   color: white;
